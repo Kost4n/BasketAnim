@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31983241068",
+    "project_id": "dropsscs",
+    "storage_bucket": "dropsscs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31983241068:android:d9320151ece965763c1549",
+        "android_client_info": {
+          "package_name": "dropsscs.basket.ball.gamez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31983241068-bo4ce4h7960h5osi9q90ei2rm7pc6m38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlaLai8FdugyEkKi4t897PpOYN2vGn7Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31983241068-bo4ce4h7960h5osi9q90ei2rm7pc6m38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
